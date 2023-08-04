@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Nazib Talukdar</h1>
+<h2 align="center">Hi, I am Nazib Talukdar</h2>
 <h3 align="center">I am a passionate Front-end Developer who has hands-on experience with large-scale enterprise applications, data-driven development, and a great co-operating mindset. Ready to face challenges or something new that I don't know. Besides everything my problem-solving abilities make me confident to face any challenge.</h3>
 
 - 🔭 I’m currently working on [Lyxa](https://adminv2.drop-deliveryapp.com/)

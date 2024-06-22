@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=140&section=header&text=nazib%20talukdar&fontSize=36&fontColor=fff&fontAlignY=40&descSize=16&descAlignY=65&desc=@front%20end%20dev&fontAlign=20&descAlign=12"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=140&section=header&text=nazib%20talukdar&fontSize=36&fontColor=fff&fontAlignY=40&descSize=16&descAlignY=65&desc=@full%stack%20dev&fontAlign=20&descAlign=12"/>
 
 ## Profiles
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/nazibtalukdar29/)
@@ -6,8 +6,13 @@
 [![Linkedin Profile](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nazib-absar-talukder-6ab13a204/)
 [![Facebook Profile](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nazibtalukar)
 
-## Front End
+## Technologies
 
+![TypeScript.js](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Nextjs](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
@@ -36,15 +41,5 @@
 ![Figma](https://img.shields.io/badge/Figma-1F8ACB.svg?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
 ![postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 
-## Currently Focused
-![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Enthusiast-brightgreen)
-![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-Practitioner-blue)
-
 <br>
 <br>
-
-<!-- ./STAT -->
-<div align="center">
-<img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=n29-dev&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117" alt="n29-dev github stats" />
-<img width="42%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n29-dev&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&hide=html,css" />
-</div>

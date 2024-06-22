@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=140&section=header&text=nazib%20talukdar&fontSize=36&fontColor=fff&fontAlignY=40&descSize=16&descAlignY=65&desc=@full%stack%20dev&fontAlign=20&descAlign=12"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=140&section=header&text=nazib%20talukder&fontSize=36&fontColor=fff&fontAlignY=40&descSize=16&descAlignY=65&desc=@full%stack%20dev&fontAlign=20&descAlign=12"/>
 
 ## Profiles
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/nazibtalukdar29/)
